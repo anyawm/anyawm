@@ -1866,56 +1866,6 @@
 			"id": 777,
 			"name": "комиксы",
 			"type": "interest"
-		}, {
-			"title": "фантастика",
-			"id": 1799,
-			"name": "фантастика",
-			"type": "interest"
-		}, {
-			"title": "супергерои",
-			"id": 1728,
-			"name": "супергерои",
-			"type": "interest"
-		}, {
-			"title": "культура",
-			"id": 834,
-			"name": "культура",
-			"type": "interest"
-		}, {
-			"title": "животные",
-			"id": 650,
-			"name": "животные",
-			"type": "interest"
-		}, {
-			"title": "изобразительное искусство",
-			"id": 1865,
-			"name": "художники",
-			"type": "interest"
-		}, {
-			"title": "кошки",
-			"id": 1722,
-			"name": "кошки",
-			"type": "interest"
-		}, {
-			"title": "питомцы",
-			"id": 1903,
-			"name": "питомцы",
-			"type": "interest"
-		}, {
-			"title": "крокодилы",
-			"id": 2614,
-			"name": "крокодил",
-			"type": "interest"
-		}, {
-			"title": "карикатуры",
-			"id": 2877,
-			"name": "карикатуры",
-			"type": "interest"
-		}, {
-			"title": "аниме",
-			"id": 1859,
-			"name": "аниме",
-			"type": "interest"
 		}],
 		"messengerGuid": "e9e2d2a6-ac3a-407a-843f-70b00189915e",
 		"isSleeping": false,
