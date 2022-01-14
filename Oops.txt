@@ -1,29 +1,4 @@
 {
-	"status": "ok",
-	"comments": [],
-	"authors": [{
-		"uid": 250965248,
-		"name": "Ильдар Зайнетдинов",
-		"displayName": "",
-		"publicId": "gqc953axpf1wv6rkrnj3tze4fm",
-		"firstName": "Ильдар",
-		"lastName": "Зайнетдинов",
-		"avatar": {
-			"isEmpty": false,
-			"avatarUrl": "https://avatars.mds.yandex.net/get-yapic/48449/enc-b69ad53acd5b34b7acddd408a6ec22edf57a963a57c7c3d06e5795fb306b0969/islands-200"
-		},
-		"userMainColor": "#6E7274"
-	}, {
-		"uid": 157482123,
-		"name": "moxxiq",
-		"displayName": "moxxiq",
-		"publicId": "fa10y48f3m0ywb3yhf8xq04bjc",
-		"avatar": {
-			"isEmpty": false,
-			"avatarUrl": "https://avatars.mds.yandex.net/get-yapic/40138/3fIGlVTwHFyQqOUCIXDm4H6EHoM-1573147150/islands-200"
-		},
-		"userMainColor": "#3E4C5E"
-	}, {
 		"uid": 576618471,
 		"name": "Sergei Goncharov",
 		"displayName": "Sergei Goncharov",
@@ -100,28 +75,6 @@
 		},
 		"userMainColor": "#847060"
 	}, {
-		"uid": 197377171,
-		"name": "Игорь Иванов",
-		"displayName": "Игорь Иванов",
-		"publicId": "1644k5910aug4x5p2wy9v63uj8",
-		"avatar": {
-			"isEmpty": false,
-			"avatarUrl": "https://avatars.mds.yandex.net/get-yapic/45848/ii4G26I1vW3RAarLiV37e7wks0Y-1/islands-200"
-		},
-		"userMainColor": "#837E79"
-	}, {
-		"uid": 217877794,
-		"name": "Михаил Куликов",
-		"displayName": "",
-		"publicId": "k4nqbbj0ewdqej6qphhtjp8xcc",
-		"firstName": "Михаил",
-		"lastName": "Куликов",
-		"avatar": {
-			"isEmpty": false,
-			"avatarUrl": "https://avatars.mds.yandex.net/get-yapic/20706/enc-661aaeaf0ccbf7ce153be9cf310710a7487ceb605d86f1140319ef26668cb9df/islands-200"
-		},
-		"userMainColor": "#FEFEFE"
-	}, {
 		"uid": 128783342,
 		"name": "Сергей",
 		"displayName": "Сергей",
@@ -151,36 +104,6 @@
 			"avatarUrl": "https://avatars.mds.yandex.net/get-yapic/51381/GS0jhhh0SkXHoxvCf9iuxokBUY-1/islands-200"
 		},
 		"userMainColor": "#131313"
-	}, {
-		"uid": 872028437,
-		"name": "Данил Мурзаханов",
-		"displayName": "Данил Мурзаханов",
-		"publicId": "t9mbnyqraku6b2nnw3dqeutbzm",
-		"avatar": {
-			"isEmpty": false,
-			"avatarUrl": "https://avatars.mds.yandex.net/get-yapic/47747/OdAUmlBuXgkj04bH4xMxRj0jFw-1/islands-200"
-		},
-		"userMainColor": "#4E707A"
-	}, {
-		"uid": 11610830,
-		"name": "Александр",
-		"displayName": "Александр",
-		"publicId": "tehnopositivist",
-		"avatar": {
-			"isEmpty": false,
-			"avatarUrl": "https://avatars.mds.yandex.net/get-yapic/28439/k4S02uDOBK3HZ9aY8YIjaVuKdMk-1/islands-200"
-		},
-		"userMainColor": "#BABAC1"
-	}, {
-		"uid": 655369231,
-		"name": "Иван Петров",
-		"displayName": "Иван Петров",
-		"publicId": "k6gnn0yb8w7bjfenjanj80mc84",
-		"avatar": {
-			"isEmpty": false,
-			"avatarUrl": "https://avatars.mds.yandex.net/get-yapic/38135/enc-32c16620f978c70850bdfacd96245a4936d99ded4f3e9c393788bef951fc6ced/islands-200"
-		},
-		"userMainColor": "#91B6FA"
 	}, {
 		"uid": 48386374,
 		"name": "Весёлый котик",
@@ -254,154 +177,6 @@
 		"avatar": {
 			"isEmpty": false,
 			"avatarUrl": "https://avatars.mds.yandex.net/get-yapic/63256/enc-8e10724254d69039bc36635cc3523c33fe51b5f5e53cad55940a960abdfebb7a/islands-200"
-		},
-		"mainColor": "#91B6FA"
-	}, {
-		"publicId": "a00vtmnxt8388xhk1xa0n66ja8",
-		"uid": 435349948,
-		"name": "людмила манылова",
-		"displayName": "",
-		"firstName": "людмила",
-		"lastName": "манылова",
-		"avatar": {
-			"isEmpty": false,
-			"avatarUrl": "https://avatars.mds.yandex.net/get-yapic/51169/7RTw2Am2PzGcFYCr8XhAMpRu4VE-1/islands-200"
-		},
-		"mainColor": "#737374"
-	}, {
-		"publicId": "fz456wz1r3fpd48vuxcuzy2cmw",
-		"uid": 126861526,
-		"name": "Максим Иванов",
-		"displayName": "",
-		"firstName": "Максим",
-		"lastName": "Иванов",
-		"avatar": {
-			"isEmpty": false,
-			"avatarUrl": "https://avatars.mds.yandex.net/get-yapic/64336/LyWpqey2kH3SFPmENwifrsR2S9Y-1/islands-200"
-		},
-		"mainColor": "#57545C"
-	}, {
-		"publicId": "7xtakqw121yxuf4q5tzd3mw2yw",
-		"uid": 246196694,
-		"name": "Доминик",
-		"displayName": "Доминик",
-		"avatar": {
-			"isEmpty": false,
-			"avatarUrl": "https://avatars.mds.yandex.net/get-yapic/26311/q5vn5Z5xDYSmfA4REu23cRK7K8-1/islands-200"
-		},
-		"mainColor": "#3A3F38"
-	}, {
-		"publicId": "27698zywcayb7b52t6aa0apnxw",
-		"uid": 284456254,
-		"name": "Антон Илюшкин",
-		"displayName": "Антон Илюшкин",
-		"avatar": {
-			"isEmpty": false,
-			"avatarUrl": "https://avatars.mds.yandex.net/get-yapic/20749/enc-dea21f43dec689f24f1c2f382c56369d347c01f049496225c598572d5b2f5f19/islands-200"
-		},
-		"mainColor": "#D8E1E7"
-	}, {
-		"publicId": "vmhd8arr9z3q6yqk3jf0p9yeg8",
-		"uid": 772584688,
-		"name": "Сергей Хорошилов",
-		"displayName": "",
-		"firstName": "Сергей",
-		"lastName": "Хорошилов",
-		"avatar": {
-			"isEmpty": false,
-			"avatarUrl": "https://avatars.mds.yandex.net/get-yapic/65952/4ti40jZSDQWfUQvugMy9re5OmI-1/islands-200"
-		},
-		"mainColor": "#D2C6AE"
-	}, {
-		"publicId": "nf2haewvkwxpn969n04duby15m",
-		"uid": 94727063,
-		"name": "Никита Белоголовцев",
-		"displayName": "Никита Белоголовцев",
-		"avatar": {
-			"isEmpty": false,
-			"avatarUrl": "https://avatars.mds.yandex.net/get-yapic/32838/Lc5Tspg1ksuZhyG1Z5G8fJDk-1/islands-200"
-		},
-		"mainColor": "#847060"
-	}, {
-		"publicId": "1644k5910aug4x5p2wy9v63uj8",
-		"uid": 197377171,
-		"name": "Игорь Иванов",
-		"displayName": "Игорь Иванов",
-		"avatar": {
-			"isEmpty": false,
-			"avatarUrl": "https://avatars.mds.yandex.net/get-yapic/45848/ii4G26I1vW3RAarLiV37e7wks0Y-1/islands-200"
-		},
-		"mainColor": "#837E79"
-	}, {
-		"publicId": "k4nqbbj0ewdqej6qphhtjp8xcc",
-		"uid": 217877794,
-		"name": "Михаил Куликов",
-		"displayName": "",
-		"firstName": "Михаил",
-		"lastName": "Куликов",
-		"avatar": {
-			"isEmpty": false,
-			"avatarUrl": "https://avatars.mds.yandex.net/get-yapic/20706/enc-661aaeaf0ccbf7ce153be9cf310710a7487ceb605d86f1140319ef26668cb9df/islands-200"
-		},
-		"mainColor": "#FEFEFE"
-	}, {
-		"publicId": "wzv1v16x5zc8n3cv9ynpbxeumw",
-		"uid": 128783342,
-		"name": "Сергей",
-		"displayName": "Сергей",
-		"avatar": {
-			"isEmpty": false,
-			"avatarUrl": "https://avatars.mds.yandex.net/get-yapic/65952/VMmzeJe2dJ8TDY9pSKPyRWXRuM-1/islands-200"
-		},
-		"mainColor": "#CCD3DC"
-	}, {
-		"publicId": "q9nkxvv248pcz0zvk651wdz1ag",
-		"uid": 901218180,
-		"name": "Леночка Волкова",
-		"displayName": "Леночка Волкова",
-		"avatar": {
-			"isEmpty": false,
-			"avatarUrl": "https://avatars.mds.yandex.net/get-yapic/29310/lWf0NPqHyPYqrcGkUTmrGAVPPg-1/islands-200"
-		},
-		"mainColor": "#ECE9E3"
-	}, {
-		"publicId": "uuw7u99rm7xw51x7jpb5cyd6v0",
-		"uid": 680097924,
-		"name": "Никита Белоголовцев",
-		"displayName": "Никита Белоголовцев",
-		"avatar": {
-			"isEmpty": false,
-			"avatarUrl": "https://avatars.mds.yandex.net/get-yapic/51381/GS0jhhh0SkXHoxvCf9iuxokBUY-1/islands-200"
-		},
-		"mainColor": "#131313"
-	}, {
-		"publicId": "t9mbnyqraku6b2nnw3dqeutbzm",
-		"uid": 872028437,
-		"name": "Данил Мурзаханов",
-		"displayName": "Данил Мурзаханов",
-		"avatar": {
-			"isEmpty": false,
-			"avatarUrl": "https://avatars.mds.yandex.net/get-yapic/47747/OdAUmlBuXgkj04bH4xMxRj0jFw-1/islands-200"
-		},
-		"mainColor": "#4E707A"
-	}, {
-		"publicId": "tehnopositivist",
-		"uid": 11610830,
-		"name": "Александр",
-		"displayName": "Александр",
-		"avatar": {
-			"isEmpty": false,
-			"avatarUrl": "https://avatars.mds.yandex.net/get-yapic/28439/k4S02uDOBK3HZ9aY8YIjaVuKdMk-1/islands-200"
-		},
-		"mainColor": "#BABAC1"
-	}, {
-		"publicId": "k6gnn0yb8w7bjfenjanj80mc84",
-		"uid": 655369231,
-		"name": "Иван Петров",
-		"displayName": "Иван Петров",
-		"avatar": {
-			"isEmpty": false,
-			"avatarUrl": "https://avatars.mds.yandex.net/get-yapic/38135/enc-32c16620f978c70850bdfacd96245a4936d99ded4f3e9c393788bef951fc6ced/islands-200"
 		},
 		"mainColor": "#91B6FA"
 	}, {
