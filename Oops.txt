@@ -75,101 +75,6 @@
 		},
 		"userMainColor": "#847060"
 	}, {
-		"uid": 128783342,
-		"name": "Сергей",
-		"displayName": "Сергей",
-		"publicId": "wzv1v16x5zc8n3cv9ynpbxeumw",
-		"avatar": {
-			"isEmpty": false,
-			"avatarUrl": "https://avatars.mds.yandex.net/get-yapic/65952/VMmzeJe2dJ8TDY9pSKPyRWXRuM-1/islands-200"
-		},
-		"userMainColor": "#CCD3DC"
-	}, {
-		"uid": 901218180,
-		"name": "Леночка Волкова",
-		"displayName": "Леночка Волкова",
-		"publicId": "q9nkxvv248pcz0zvk651wdz1ag",
-		"avatar": {
-			"isEmpty": false,
-			"avatarUrl": "https://avatars.mds.yandex.net/get-yapic/29310/lWf0NPqHyPYqrcGkUTmrGAVPPg-1/islands-200"
-		},
-		"userMainColor": "#ECE9E3"
-	}, {
-		"uid": 680097924,
-		"name": "Никита Белоголовцев",
-		"displayName": "Никита Белоголовцев",
-		"publicId": "uuw7u99rm7xw51x7jpb5cyd6v0",
-		"avatar": {
-			"isEmpty": false,
-			"avatarUrl": "https://avatars.mds.yandex.net/get-yapic/51381/GS0jhhh0SkXHoxvCf9iuxokBUY-1/islands-200"
-		},
-		"userMainColor": "#131313"
-	}, {
-		"uid": 48386374,
-		"name": "Весёлый котик",
-		"displayName": "Весёлый котик",
-		"publicId": "a3qqbgcw0gxehh8mnqnr9f8gg4",
-		"avatar": {
-			"isEmpty": false,
-			"avatarUrl": "https://avatars.mds.yandex.net/get-yapic/29310/yI7LKiNld4k7Iv0KRUkOcIGlHwk-1572211554/islands-200"
-		},
-		"userMainColor": "#FAFAFA"
-	}, {
-		"uid": 298253031,
-		"name": "Влад Стебнев",
-		"displayName": "Влад Стебнев",
-		"publicId": "0bkj07he1f2h8r6t2f5we5h3q4",
-		"avatar": {
-			"isEmpty": false,
-			"avatarUrl": "https://avatars.mds.yandex.net/get-yapic/62162/i8AkFarj7bkhYLrNXCodFAef9w-1/islands-200"
-		},
-		"userMainColor": "#BFC3BC"
-	}, {
-		"uid": 229048551,
-		"name": "Сергей",
-		"displayName": "Сергей",
-		"publicId": "jjge19bxqt505d6awqr7tbp5e0",
-		"avatar": {
-			"isEmpty": false,
-			"avatarUrl": "https://avatars.mds.yandex.net/get-yapic/39803/EmzfgtzDlKNjMTOoHneaN5Z1Byk-1/islands-200"
-		},
-		"userMainColor": "#FEFEFE"
-	}, {
-		"uid": 239169098,
-		"name": "Дмитрий Орлов",
-		"displayName": "",
-		"publicId": "787wafmdxr21bc7fw2pynmkjkr",
-		"firstName": "Дмитрий",
-		"lastName": "Орлов",
-		"avatar": {
-			"isEmpty": false,
-			"avatarUrl": "https://avatars.mds.yandex.net/get-yapic/33202/tkWYnwja5C0qOiIBl79YkvlrwE-1/islands-200"
-		},
-		"userMainColor": "#B2B1AA"
-	}],
-	"users": [{
-		"publicId": "gqc953axpf1wv6rkrnj3tze4fm",
-		"uid": 250965248,
-		"name": "Ильдар Зайнетдинов",
-		"displayName": "",
-		"firstName": "Ильдар",
-		"lastName": "Зайнетдинов",
-		"avatar": {
-			"isEmpty": false,
-			"avatarUrl": "https://avatars.mds.yandex.net/get-yapic/48449/enc-b69ad53acd5b34b7acddd408a6ec22edf57a963a57c7c3d06e5795fb306b0969/islands-200"
-		},
-		"mainColor": "#6E7274"
-	}, {
-		"publicId": "fa10y48f3m0ywb3yhf8xq04bjc",
-		"uid": 157482123,
-		"name": "moxxiq",
-		"displayName": "moxxiq",
-		"avatar": {
-			"isEmpty": false,
-			"avatarUrl": "https://avatars.mds.yandex.net/get-yapic/40138/3fIGlVTwHFyQqOUCIXDm4H6EHoM-1573147150/islands-200"
-		},
-		"mainColor": "#3E4C5E"
-	}, {
 		"publicId": "dt0umkhm2jbfa08yffykmfzkwg",
 		"uid": 576618471,
 		"name": "Sergei Goncharov",
@@ -314,38 +219,7 @@
 			"id": 367,
 			"name": "беспилотники",
 			"type": "interest"
-		}, {
-			"title": "космонавтика",
-			"id": 805,
-			"name": "космонавтика",
-			"type": "interest"
-		}, {
-			"title": "компьютерное железо",
-			"id": 778,
-			"name": "компьютерноежелезо",
-			"type": "interest"
-		}, {
-			"title": "искусство",
-			"id": 716,
-			"name": "искусство",
-			"type": "interest"
-		}, {
-			"title": "изобретения",
-			"id": 1945,
-			"name": "изобретения",
-			"type": "interest"
-		}, {
-			"title": "военная техника",
-			"id": 2870,
-			"name": "военнаятехника",
-			"type": "interest"
-		}],
-		"messengerGuid": "ace72512-2d27-4304-960b-e6dfdd420a8a",
-		"isSleeping": false,
-		"isWatcherSubscribe": false,
-		"authorsLikesCount": 3,
-		"userCommentsCount": 80
-	}, {
+		} {
 		"uid": 157482123,
 		"about": "",
 		"followerCount": -1,
