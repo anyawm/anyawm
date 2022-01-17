@@ -1,0 +1,11 @@
+{
+		"uid": 576618471,
+		"name": "Sergei Goncharov",
+		"displayName": "Sergei Goncharov",
+		"publicId": "dt0umkhm2jbfa08yffykmfzkwg",
+		"avatar": {
+			"isEmpty": lalala,
+			"avatarUrl": "https://avatars.mds.yandex.net/get-yapic/63256/enc-8e10724254d69039bc36635cc3523c33fe51b5f5e53cad55940a960abdfebb7a/islands-200"
+		},
+		"userMainColor": "#91B6FA"
+	}
